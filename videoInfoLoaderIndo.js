@@ -17,8 +17,6 @@
 
                     var player = new Clappr.Player({
                         source: data.video_stream,
-                        // source: 'VeZJOE8tIwE',
-                        // poster: 'https://i.ytimg.com/vi/nfWlot6h_JM/hqdefault.jpg',
                         width: '100%',
                         height: '100%',
                         autoPlay: false,
