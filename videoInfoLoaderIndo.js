@@ -17,6 +17,7 @@
 
                     var player = new Clappr.Player({
                         source: data.video_stream,
+                        poster : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT7s0cSfA678UcsIh-A0kXuwot9C9y9GuQxhwojqM2jYZq_K9Zycog_a0NhhSBrA0Ke6c3M6QotHBa2wliX98SLo3D_XoNdqhZkQIelBOcSMkrgH3zDc_m-MIb79rj3R7UrMEzd0U4jUeH-XJ3Gnwnb4VnzKi9BbHi4bdFtoLH1UjUxCeixeQQEawfqlsA/s16000/BACKGROUND%20TEMA%20QURAN2.png",
                         width: '100%',
                         height: '100%',
                         autoPlay: false,
